@@ -42,10 +42,10 @@ const About = () => {
       variants={fadeIn('','',0.1,1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a software engineer with a passion for building innovative solutions that solve real-world problems. 
-        With a strong foundation in computer science and a keen eye for detail, I strive to create efficient and scalable applications.
-        My expertise lies in web development, where I leverage modern technologies to deliver high-quality user experiences. 
-        I am constantly seeking new challenges and opportunities to expand my skill set and contribute to exciting projects.
+        Full Stack Python Developer
+        Experienced in building end-to-end web applications using Python (Django, FastAPI) for backend development and HTML, CSS and Javascript for frontend interfaces. Skilled in designing RESTful APIs, managing databases in Mongodb , and deploying scalable solutions with Docker and cloud services. Passionate about clean code, performance, and creating seamless user experiences.
+
+
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index)=>(

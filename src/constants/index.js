@@ -42,21 +42,21 @@ import {
   
   const services = [
     {
-      title: "someone",
+      title: "Website development",
       icon: web,
     },
     {
-      title: "fill this up",
+      title: "Website maintenance",
       icon: mobile,
     },
-    {
-      title: "idk",
-      icon: backend,
-    },
-    {
-      title: "yoooooooo",
-      icon: creator,
-    },
+    // {
+    //   title: "idk",
+    //   icon: backend,
+    // },
+    // {
+    //   title: "yoooooooo",
+    //   icon: creator,
+    // },
   ];
   
   const technologies = [
@@ -72,10 +72,10 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    // {
-    //   name: "TypeScript",
-    //   icon: typescript,
-    // },
+    {
+      name: "Typescript",
+      icon: typescript,
+    },
     // {
     //   name: "React JS",
     //   icon: reactjs,
@@ -116,16 +116,16 @@ import {
   
   const experiences = [
     {
-      title: "Aui student",
-      company_name: "AUi",
+      title: " student",
+      company_name: "Augustine University Ilara-Epe",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "February 2024 - Till date",
       points: [
-        "Entered through jubeb",
-        "met benedicta and other people",
-        "Made it my goal to frustrate Amara",
-        "Participated in Class",
+        "Entered through jupeb",
+        "currently have a 3.9 gpa",
+        "Worked as the lead of a group school project",
+        // "Participated in Class",
       ],
     },
     // {
@@ -170,30 +170,30 @@ import {
   ];
   
   const testimonials = [
-    {
-      testimonial:
-        "Daniella is good at what she does",
-      name: "Amara",
-      designation: "CEO",
-      company: "Connect",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I sing and i am a black man too",
-      name: "Chris Brown",
-      designation: "singer",
-      company: "Record label",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "Daniellaaaaa!",
-      name: "Benedicta",
-      designation: "student rep",
-      company: "Aui",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
+    // {
+    //   testimonial:
+    //     "Daniella is good at what she does",
+    //   name: "Amara",
+    //   designation: "CEO",
+    //   company: "Connect",
+    //   image: "https://randomuser.me/api/portraits/women/4.jpg",
+    // },
+    // {
+    //   testimonial:
+    //     "I sing and i am a black man too",
+    //   name: "Chris Brown",
+    //   designation: "singer",
+    //   company: "Record label",
+    //   image: "https://randomuser.me/api/portraits/men/5.jpg",
+    // },
+    // {
+    //   testimonial:
+    //     "Daniellaaaaa!",
+    //   name: "Benedicta",
+    //   designation: "student rep",
+    //   company: "Aui",
+    //   image: "https://randomuser.me/api/portraits/women/6.jpg",
+    // },
   ];
   
   const projects = [

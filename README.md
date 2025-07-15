@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your Name] — Full-Stack Developer | Problem Solver | Tech Enthusiast 🚀
+# 👋 Hi, I'm Valerius Ibeh — Full-Stack Developer | Problem Solver | Tech Enthusiast 🚀
 
 ![Profile Banner](https://your-banner-url.com/banner.png)
 
-I'm a passionate developer with a focus on building responsive, high-performance web apps using modern tech like **React**, **Tailwind CSS**, **Node.js**, and **TypeScript**. I bring ideas to life with clean code, attention to detail, and a drive for learning.
+I'm a passionate developer with a focus on building responsive, high-performance web apps using modern tech like **Html**, **CSS**, **Node.js**, and **TypeScript**. I bring ideas to life with clean code, attention to detail, and a drive for learning.
 
 ---
 
