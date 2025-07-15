@@ -44,7 +44,7 @@ const Contact: React.FC = () => {
           from_name: form.name,
           to_name: 'Daniella',
           from_email: form.email,
-          to_email: 'danniella@gmail.com',
+          to_email: 'valeriusibeh@gmail.com',
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
